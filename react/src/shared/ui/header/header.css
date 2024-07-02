@@ -1,0 +1,6 @@
+.header {
+    display: flex;
+    align-items: center;
+    background: var(--block);
+    min-height: 80px;
+}
